@@ -24,6 +24,22 @@ Meeting #1: chiều thứ 7.
 
 Some links:
 1. https://www.researchgate.net/profile/Manikrao_Dhore/publication/43785303_Speech_Emotion_Recognition_Using_Support_Vector_Machines/links/0deec5243c08426014000000.pdf
+  Berlin emotional database (tiếng Đức) -> MFCC + MEDC -> SVM -> accurate ~95% (đừng care cái này lắm)
+  Dùng LIBSVM (ko biết của ngôn ngữ nào nữa), dùng Radial Basis Function (RBF) kernel & Polynomial kernel functions.
+  Ko có hướng dẫn cụ thể hơn
 2. https://www.academia.edu/6784167/c%C3%A1c_vector
+  Tài liệu về MFCC
 3. https://pdfs.semanticscholar.org/05ba/884878eaff5f977d488fe792f78e57e18418.pdf
+  Berlin emotional database -> MFCC -> SVM.
+  Dùng 3-stage inhierarchical SVM, RBF sigma value = 1, 10-fold cross-validations.
+  Có thể tham khảo thêm về chi tiết của SVM.
 4. https://github.com/amanbasu/speech-emotion-recognition
+  IEMOCAP dataset (tiếng Anh) -> MFCC -> recurrent neural network (LSTM)
+  Có code đầy đủ
+5. https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/
+  RAVDESS dataset (tiếng Anh, 16bit, 48kHz .wav, chắc k giống đề đâu, tại có ~2500 files à) -> MFCC -> MLPClassifier (Multi-layer Perceptron, a feedforward ANN model)
+  Có ảnh chụp code
+6. https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3
+  RAVDESS -> MFCC -> CNN/Keras
+  Có code từng đoạn
+  
