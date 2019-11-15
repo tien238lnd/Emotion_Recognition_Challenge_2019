@@ -1,12 +1,12 @@
 # Hannibal_ERC2019
 
-Thi 2 vòng.
-Vòng 1 trong 17-28/11.
-Bài toán là supervised classification.
-Train set (handout) gồm ~5000 cặp (file .pcm - file âm thanh/ tiếng nói, label). Label là 1 trong 6 cảm xúc: happy, sad, anger, fear, disgust, và neutral (vui, buồn, giận, sợ, kinh tởm, trung tính).
-Test set (public-test) gồm ~1000 files âm thanh (ko có label).
-Mỗi ngày được submit 3 lần.
-Vòng 2 thì chỉ là chọn mấy đội top lên present rồi train lại trên server của BTC, với test lại trên ~1000 files closed-test khác. 
+- Thi 2 vòng.
+- Vòng 1 trong 17-28/11.
+- Bài toán là supervised classification.
+- Train set (handout) gồm ~5000 cặp (file .pcm - file âm thanh/ tiếng nói, label). Label là 1 trong 6 cảm xúc: happy, sad, anger, fear, disgust, và neutral (vui, buồn, giận, sợ, kinh tởm, trung tính).
+- Test set (public-test) gồm ~1000 files âm thanh (ko có label).
+- Mỗi ngày được submit 3 lần.
+- Vòng 2 thì chỉ là chọn mấy đội top lên present rồi train lại trên server của BTC, với test lại trên ~1000 files closed-test khác. 
 
 More info:
 1. File audio chỉ là một câu nói ngắn.
