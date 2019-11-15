@@ -15,9 +15,9 @@ More info:
 4. Dữ liệu tiếng anh.
 
 Task #1:
-Thanh: tập trung trả lời câu hỏi là cái feature vector của nó trả về sẽ chứa những thông tin gì.
-Việt: chú ý phần cài đặt cụ thể và những tham số liên quan mà mình có thể điều chỉnh lúc dùng thuật toán (ý là cái hàm trong thư viện) đó.
-Tiến: tìm hiểu về các bộ dữ liệu phổ biến có sẵn, coi qua về toàn bộ các bước phía sau... xem ngta dùng thuật toán học gì.
+- Thanh: tập trung trả lời câu hỏi là cái feature vector của nó trả về sẽ chứa những thông tin gì.
+- Việt: chú ý phần cài đặt cụ thể và những tham số liên quan mà mình có thể điều chỉnh lúc dùng thuật toán (ý là cái hàm trong thư viện) đó.
+- Tiến: tìm hiểu về các bộ dữ liệu phổ biến có sẵn, coi qua về toàn bộ các bước phía sau... xem ngta dùng thuật toán học gì.
 
 Meeting #1: chiều thứ 7.
 
