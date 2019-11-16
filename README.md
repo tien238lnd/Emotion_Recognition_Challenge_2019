@@ -40,7 +40,8 @@ Some links:
 - RAVDESS dataset (tiếng Anh, 16bit, 48kHz .wav, chắc k giống đề đâu, tại có ~2500 files à) -> MFCC -> MLPClassifier (Multi-layer Perceptron, a feedforward ANN model)
 - Có ảnh chụp code
 6. https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3
-https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer
+https://github.com/rezachu/emotion_recognition_cnn
+Reference: https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer
 - RAVDESS -> MFCC -> CNN/Keras
 - Có code từng đoạn
 7. https://www.microsoft.com/en-us/research/publication/high-level-feature-representation-using-recurrent-neural-network-for-speech-emotion-recognition/
