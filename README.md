@@ -47,6 +47,4 @@ https://github.com/rezachu/emotion_recognition_cnn
 - RAVDESS + SAVEE -> MFCC -> CNN/Keras, so sánh với LSTM và MLP
 8. https://www.microsoft.com/en-us/research/publication/high-level-feature-representation-using-recurrent-neural-network-for-speech-emotion-recognition/
 - IEMOCAP -> MFCC -> RNN, bidirectional LSTM, Deep neural network (DNN) - Extreme Learning Machine (ELM), Gaussian mixture model (GMM), hidden Markov model (HMM).
-
-
-  
+9. https://github.com/tyiannak/pyAudioAnalysis
