@@ -31,7 +31,7 @@ Some links:
 - Tài liệu về MFCC
 3. https://pdfs.semanticscholar.org/05ba/884878eaff5f977d488fe792f78e57e18418.pdf
 - Berlin emotional database -> MFCC -> SVM.
-- Dùng 3-stage inhierarchical SVM, RBF sigma value = 1, 10-fold cross-validations.
+- Dùng 3-stage hierarchical SVM, RBF sigma value = 1, 10-fold cross-validations.
 - Có thể tham khảo thêm về chi tiết của SVM.
 4. https://github.com/amanbasu/speech-emotion-recognition
 - IEMOCAP dataset (tiếng Anh) -> MFCC -> recurrent neural network (LSTM)
@@ -40,6 +40,11 @@ Some links:
 - RAVDESS dataset (tiếng Anh, 16bit, 48kHz .wav, chắc k giống đề đâu, tại có ~2500 files à) -> MFCC -> MLPClassifier (Multi-layer Perceptron, a feedforward ANN model)
 - Có ảnh chụp code
 6. https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3
-  RAVDESS -> MFCC -> CNN/Keras
+https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer
+- RAVDESS -> MFCC -> CNN/Keras
 - Có code từng đoạn
+7. https://www.microsoft.com/en-us/research/publication/high-level-feature-representation-using-recurrent-neural-network-for-speech-emotion-recognition/
+- IEMOCAP -> MFCC -> RNN, bidirectional LSTM, Deep neural network (DNN) - Extreme Learning Machine (ELM), Gaussian mixture model (GMM), hidden Markov model (HMM).
+
+
   
