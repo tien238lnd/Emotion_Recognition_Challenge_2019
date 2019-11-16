@@ -41,10 +41,11 @@ Some links:
 - Có ảnh chụp code
 6. https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3
 https://github.com/rezachu/emotion_recognition_cnn
-Reference: https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer
 - RAVDESS -> MFCC -> CNN/Keras
 - Có code từng đoạn
-7. https://www.microsoft.com/en-us/research/publication/high-level-feature-representation-using-recurrent-neural-network-for-speech-emotion-recognition/
+7. https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer
+- RAVDESS + SAVEE -> MFCC -> CNN/Keras, so sánh với LSTM và MLP
+8. https://www.microsoft.com/en-us/research/publication/high-level-feature-representation-using-recurrent-neural-network-for-speech-emotion-recognition/
 - IEMOCAP -> MFCC -> RNN, bidirectional LSTM, Deep neural network (DNN) - Extreme Learning Machine (ELM), Gaussian mixture model (GMM), hidden Markov model (HMM).
 
 
